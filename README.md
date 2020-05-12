@@ -6,3 +6,4 @@ If you would like to see the information in a different format, say an PowerShel
 
 Please let me know if you have any comments, questions, or find any bugs to fix.  Thank you!
 
+![Image](https://github.com/ccaragol/skype-for-business-call-forwarding-information-tool/blob/master/SkypeForwardingInfo.png)
